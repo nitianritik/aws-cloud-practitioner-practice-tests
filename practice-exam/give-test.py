@@ -140,10 +140,10 @@ def run_exam(serial):
         f.write(f"Wrong: {total_wrong}\n")
         f.write(f"Score: {score_percent:.2f}%\n")
         f.write(f"Total Time: {total_time:.2f}s\n")
-        f.write("-" * 60 + "\n")
-        for r in question_results:
-            f.write(f"Q{r['number']:<3} | {r['result']} | {r['time_taken']:.2f}s | Your: {r['your_answer']} | Correct: {r['correct_answer']}\n")
-        f.write("-" * 60 + "\n")
+        # f.write("-" * 60 + "\n")
+        # for r in question_results:
+        #     f.write(f"Q{r['number']:<3} | {r['result']} | {r['time_taken']:.2f}s | Your: {r['your_answer']} | Correct: {r['correct_answer']}\n")
+        # f.write("-" * 60 + "\n")
 
     print(f"\n📁 Results saved to results.txt\n")
 
