@@ -1,0 +1,130 @@
+_______________ EXAM 01 RESULTS _______________
+
+📊  EXAM SUMMARY 📊
+============================================================
+Total Questions: 50
+Correct: 37 ✅
+Wrong: 13 ❌
+Score: 74.00% 🌟
+Total Time: 2916.04 seconds ⏱️
+
+_______________ EXAM 02 RESULTS _______________
+Date: 2025-11-02 16:59:28
+Total Questions: 50
+Correct: 40
+Wrong: 10
+Score: 80.00%
+Total Time: 2571.38s
+------------------------------------------------------------
+Q1   | ✅ | 24.93s | Your: A | Correct: A
+Q2   | ✅ | 17.81s | Your: D | Correct: D
+Q3   | ✅ | 25.90s | Your: C | Correct: C
+Q4   | ✅ | 24.43s | Your: A | Correct: A
+Q5   | ✅ | 18.54s | Your: A | Correct: A
+Q6   | ❌ | 63.09s | Your: C | Correct: A
+Q7   | ✅ | 43.53s | Your: A,B | Correct: A,B
+Q8   | ✅ | 28.45s | Your: D | Correct: D
+Q9   | ❌ | 51.00s | Your: D | Correct: C
+Q10  | ✅ | 49.01s | Your: A | Correct: A
+Q11  | ✅ | 80.80s | Your: C | Correct: C
+Q12  | ❌ | 64.16s | Your: B | Correct: C
+Q13  | ✅ | 34.83s | Your: A | Correct: A
+Q14  | ✅ | 81.19s | Your: B,C | Correct: B,C
+Q15  | ✅ | 41.77s | Your: D | Correct: D
+Q16  | ❌ | 54.73s | Your: B,D | Correct: B,E
+Q17  | ✅ | 44.70s | Your: D,E | Correct: D,E
+Q18  | ✅ | 34.93s | Your: C | Correct: C
+Q19  | ✅ | 23.71s | Your: C | Correct: C
+Q20  | ✅ | 22.39s | Your: A | Correct: A
+Q21  | ✅ | 17.86s | Your: C | Correct: C
+Q22  | ❌ | 32.39s | Your: A | Correct: B
+Q23  | ✅ | 73.80s | Your: C | Correct: C
+Q24  | ✅ | 47.02s | Your: D,E | Correct: D,E
+Q25  | ❌ | 27.32s | Your: C | Correct: A
+Q26  | ✅ | 42.14s | Your: B | Correct: B
+Q27  | ✅ | 23.34s | Your: D | Correct: D
+Q28  | ✅ | 75.94s | Your: A | Correct: A
+Q29  | ✅ | 35.92s | Your: C,E | Correct: C,E
+Q30  | ✅ | 41.50s | Your: C | Correct: C
+Q31  | ✅ | 21.32s | Your: C | Correct: C
+Q32  | ✅ | 48.19s | Your: D | Correct: D
+Q33  | ❌ | 74.58s | Your: B,D | Correct: B,C
+Q34  | ✅ | 28.00s | Your: D,E | Correct: D,E
+Q35  | ❌ | 81.44s | Your: B | Correct: C
+Q36  | ✅ | 90.89s | Your: C | Correct: C
+Q37  | ✅ | 71.71s | Your: A,E | Correct: A,E
+Q38  | ✅ | 29.31s | Your: A | Correct: A
+Q39  | ✅ | 99.23s | Your: D | Correct: D
+Q40  | ✅ | 201.49s | Your: B | Correct: B
+Q41  | ❌ | 52.61s | Your: B,E | Correct: B,C
+Q42  | ✅ | 109.34s | Your: A | Correct: A
+Q43  | ✅ | 58.94s | Your: A | Correct: A
+Q44  | ✅ | 63.26s | Your: C | Correct: C
+Q45  | ✅ | 81.86s | Your: B,E | Correct: B,E
+Q46  | ✅ | 50.23s | Your: A,C | Correct: A,C
+Q47  | ✅ | 28.04s | Your: C | Correct: C
+Q48  | ✅ | 46.85s | Your: A | Correct: A
+Q49  | ✅ | 51.06s | Your: B | Correct: B
+Q50  | ❌ | 35.89s | Your: D | Correct: B
+------------------------------------------------------------
+
+
+_______________ EXAM 03 RESULTS _______________
+Date: 2025-12-13 00:33:44
+Total Questions: 50
+Correct: 39
+Wrong: 11
+Score: 78.00%
+Total Time: 4279.30s
+------------------------------------------------------------
+Q1   | ✅ | 23.67s | Your: A,C | Correct: A,C
+Q2   | ✅ | 217.30s | Your: A | Correct: A
+Q3   | ✅ | 30.14s | Your: D | Correct: D
+Q4   | ✅ | 298.93s | Your: A | Correct: A
+Q5   | ✅ | 40.41s | Your: B | Correct: B
+Q6   | ✅ | 29.92s | Your: B | Correct: B
+Q7   | ✅ | 155.68s | Your: C,E | Correct: C,E
+Q8   | ✅ | 110.20s | Your: B,D | Correct: B,D
+Q9   | ✅ | 59.12s | Your: D | Correct: D
+Q10  | ✅ | 66.35s | Your: A | Correct: A
+Q11  | ✅ | 105.72s | Your: B | Correct: B
+Q12  | ✅ | 252.04s | Your: D | Correct: D
+Q13  | ✅ | 96.57s | Your: D | Correct: D
+Q14  | ✅ | 161.09s | Your: A,C | Correct: A,C
+Q15  | ❌ | 13.24s | Your: C | Correct: A
+Q16  | ✅ | 172.80s | Your: C | Correct: C
+Q17  | ❌ | 71.96s | Your: B,D | Correct: D,E
+Q18  | ✅ | 307.31s | Your: B | Correct: B
+Q19  | ✅ | 33.55s | Your: B | Correct: B
+Q20  | ❌ | 322.98s | Your: C,D | Correct: D,E
+Q21  | ✅ | 108.21s | Your: D | Correct: D
+Q22  | ❌ | 100.42s | Your: A,B | Correct: A,D
+Q23  | ❌ | 39.95s | Your: A | Correct: D
+Q24  | ✅ | 34.39s | Your: C,E | Correct: C,E
+Q25  | ❌ | 23.26s | Your: C | Correct: D
+Q26  | ✅ | 38.76s | Your: B | Correct: B
+Q27  | ✅ | 50.00s | Your: B,E | Correct: B,E
+Q28  | ✅ | 25.66s | Your: A | Correct: A
+Q29  | ✅ | 110.07s | Your: D | Correct: D
+Q30  | ✅ | 19.41s | Your: A | Correct: A
+Q31  | ❌ | 50.95s | Your: A,C | Correct: A,B
+Q32  | ✅ | 42.08s | Your: D | Correct: D
+Q33  | ✅ | 30.14s | Your: B | Correct: B
+Q34  | ✅ | 52.14s | Your: C | Correct: C
+Q35  | ❌ | 53.17s | Your: B,C | Correct: A,C
+Q36  | ❌ | 48.67s | Your: C | Correct: D
+Q37  | ✅ | 23.72s | Your: D | Correct: D
+Q38  | ✅ | 40.18s | Your: A,E | Correct: A,E
+Q39  | ✅ | 24.00s | Your: B | Correct: B
+Q40  | ✅ | 12.42s | Your: A | Correct: A
+Q41  | ✅ | 18.27s | Your: A | Correct: A
+Q42  | ✅ | 12.13s | Your: B | Correct: B
+Q43  | ❌ | 128.34s | Your: B,D | Correct: A,D
+Q44  | ✅ | 224.88s | Your: A | Correct: A
+Q45  | ❌ | 36.92s | Your: A | Correct: B
+Q46  | ✅ | 239.25s | Your: B,D | Correct: B,D
+Q47  | ✅ | 33.87s | Your: A | Correct: A
+Q48  | ✅ | 31.05s | Your: A | Correct: A
+Q49  | ✅ | 16.13s | Your: D | Correct: D
+Q50  | ✅ | 41.84s | Your: B | Correct: B
+------------------------------------------------------------
