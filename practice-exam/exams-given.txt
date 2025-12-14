@@ -468,3 +468,915 @@ Wrong: 9 ❌
 Score: 82.00% 🌟
 Total Time: 2322.70 seconds ⏱
 
+
+Welcome to the Python Exam Simulator 🎓
+Enter the exam serial number (e.g. 1): 6
+
+📘 Starting Practice Exam 6 (50 questions)
+--------------------------------------------------
+
+Q1. Which of the following is true regarding the AWS availability zones and edge locations?
+- A. Edge locations are located in separate Availability Zones worldwide to serve global customers.
+- B. An availability zone exists within an edge location to distribute content globally with low latency.
+- C. An Availability Zone is a geographic location where AWS provides multiple, physically separated and isolated edge locations.
+- D. An AWS Availability Zone is an isolated location within an AWS Region, however edge locations are located in multiple cities worldwide.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 11.74s)
+
+Q2. Which features are included in the AWS Business Support Plan? (Choose TWO)
+- A. 24x7 access to customer service.
+- B. Access to Cloud Support Engineers via email only during business hours.
+- C. Access to the Infrastructure Event Management (IEM) feature for additional fee.
+- D. 24x7 access to the TAM feature.
+- E. Partial access to the core Trusted Advisor checks.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,D
+❌  Wrong. Correct answer: A,C (⏱️ 44.01s)
+
+Q3. A company is developing a mobile application and wants to allow users to use their Amazon, Apple, Facebook, or Google identities to authenticate to the application. Which AWS Service should the company use for this purpose?
+- A. Amazon GuardDuty.
+- B. Amazon Personalize.
+- C. Amazon Cognito.
+- D. AWS IAM.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 17.29s)
+
+Q4. Which AWS Service allows customers to create a template that programmatically defines policies and configurations of all AWS resources as code and so that the same template can be reused among multiple projects?
+- A. AWS CloudFormation.
+- B. AWS Config.
+- C. AWS CloudTrail.
+- D. AWS Auto Scaling.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 34.06s)
+
+Q5. Which of the following are advantages of using AWS as a cloud computing provider? (Choose TWO)
+- A. Eliminates the need to monitor servers and applications.
+- B. Manages all the compliance and auditing tasks.
+- C. Provides custom hardware to meet any specification.
+- D. Eliminates the need to guess on infrastructure capacity needs.
+- E. Enables customers to trade their capital expenses for operational expenses.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): D,E
+✅  Correct! (⏱️ 61.10s)
+
+Q6. A customer is planning to migrate their Microsoft SQL Server databases to AWS. Which AWS Services can the customer use to run their Microsoft SQL Server database on AWS? (Choose TWO)
+- A. AWS Fargate.
+- B. Amazon Elastic Compute Cloud.
+- C. Amazon RDS.
+- D. AWS Database Migration service (DMS).
+- E. AWS Lambda.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+❌  Wrong. Correct answer: B,C (⏱️ 81.36s)
+
+Q7. Which AWS Service can perform health checks on Amazon EC2 instances?
+- A. AWS CloudFormation.
+- B. Amazon Route 53.
+- C. Amazon Chime.
+- D. Amazon Aurora.
+Your answer (e.g. A,B,...): A
+❌  Wrong. Correct answer: B (⏱️ 33.02s)
+
+Q8. A company is developing an application that will leverage facial recognition to automate photo tagging. Which AWS Service should the company use for facial recognition?
+- A. Amazon Comprehend.
+- B. AWS IAM.
+- C. Amazon Polly.
+- D. Amazon Rekognition.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 19.23s)
+
+Q9. Which of the following are examples of AWS-managed databases? (Choose TWO)
+- A. Amazon Neptune.
+- B. Amazon CloudSearch.
+- C. Microsoft SQL Server on Amazon EC2.
+- D. MySQL on Amazon EC2.
+- E. Amazon RDS for MySQL.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,E
+✅  Correct! (⏱️ 72.11s)
+
+Q10. A company’s AWS workflow requires that it periodically perform large-scale image and video processing jobs. The customer is seeking to minimize cost and has stated that the amount of time it takes to process these jobs is not critical, but that cost minimization is the most important factor in designing the solution. Which EC2 instance class is best suited for this processing?
+- A. EC2 On-Demand Instances.
+- B. EC2 Reserved Instances     - No Upfront.
+- C. EC2 Spot Instances.
+- D. EC2 Reserved Instances     - All Upfront.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 34.58s)
+
+Q11. There is a requirement to grant a DevOps team full administrative access to all resources in an AWS account. Who can grant them these permissions?
+- A. AWS account owner.
+- B. AWS technical account manager.
+- C. AWS security team.
+- D. AWS cloud support engineers.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 38.75s)
+
+Q12. You need to migrate a large number of on-premises workloads to AWS. Which AWS service is the most appropriate?
+- A. AWS File Transfer Acceleration.
+- B. AWS Server Migration Service.
+- C. AWS Database Migration Service.
+- D. AWS Application Discovery Service.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 84.91s)
+
+Q13. What are some key benefits of using AWS CloudFormation? (Choose TWO)
+- A. It helps AWS customers deploy their applications without worrying about the underlying infrastructure.
+- B. It applies advanced IAM security features automatically.
+- C. It automates the provisioning and updating of your infrastructure in a safe and controlled manner.
+- D. It allows you to model your entire infrastructure in just a text file.
+- E. It compiles and builds application code in a timely manner.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+✅  Correct! (⏱️ 45.23s)
+
+Q14. Which of the following is a cloud computing deployment model that connects infrastructure and applications between cloud-based resources and existing resources not located in the cloud?
+- A. On-premises.
+- B. Mixed.
+- C. Hybrid.
+- D. Cloud.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 68.31s)
+
+Q15. A company is hosting business critical workloads in an AWS Region. To protect against data loss and ensure business continuity, a mirror image of the current AWS environment should be created in another AWS Region. Company policy requires that the standby environment must be available in minutes in case of an outage in the primary AWS Region. Which AWS service can be used to meet these requirements?
+- A. CloudEndure Disaster Recovery.
+- B. CloudEndure Migration.
+- C. AWS Backup.
+- D. AWS Glue.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 40.81s)
+
+Q16. Which of the following S3 storage classes is most appropriate to host static assets for a popular e-commerce website with stable access patterns?
+- A. S3 Standard-IA.
+- B. S3 Intelligent-Tiering.
+- C. S3 Glacier Deep Archive.
+- D. S3 Standard.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 45.09s)
+
+Q17. You want to create a backup of your data in another geographical location. Where should you create this backup?
+- A. In another Edge location.
+- B. In another Region.
+- C. In another VPC.
+- D. In another Availability Zone.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 39.84s)
+
+Q18. Which statement is true in relation to the security of Amazon EC2?
+- A. You should use instance store volumes to store login data.
+- B. You should regularly patch the operating system and applications on your EC2 instances.
+- C. You should deploy critical components of your application in the Availability Zone that you trust.
+- D. You can track all API calls using Amazon Athena.
+Your answer (e.g. A,B,...): A
+❌  Wrong. Correct answer: B (⏱️ 71.94s)
+
+Q19. What does AWS Cost Explorer provide to help manage your AWS spend?
+- A. Cost comparisons between AWS Cloud environments and on-premises environments.
+- B. Accurate estimates of AWS service costs based on your expected usage.
+- C. Consolidated billing.
+- D. Highly accurate cost forecasts for up to 12 months ahead.
+Your answer (e.g. A,B,...): B
+❌  Wrong. Correct answer: D (⏱️ 56.47s)
+
+Q20. Which of the following is a feature of Amazon RDS that performs automatic failover when the primary database fails to respond?
+- A. RDS Single-AZ.
+- B. RDS Write Replica.
+- C. RDS Snapshots.
+- D. RDS Multi-AZ.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 19.34s)
+
+Q21. You are using several on-demand EC2 Instances to run your development environment. What is the best way to reduce your charges when these instances are not in use?
+- A. Deleting all EBS volumes attached to the instances.
+- B. You cannot minimize charges for on-demand instances.
+- C. Terminating the instances.
+- D. Stopping the instances.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 43.01s)
+
+Q22. Which of the following strategies helps protect your AWS root account?
+- A. Delete root user access keys if you do not need them.
+- B. Apply MFA for the root account and use it for all of your work.
+- C. Access the root account only from your personal Mobile Phone.
+- D. Only share your AWS account password or access keys with trusted persons.
+Your answer (e.g. A,B,...): B
+❌  Wrong. Correct answer: A (⏱️ 1.46s)
+
+Q23. Which of the following are factors should be considered for Amazon EBS pricing? (Choose TWO)
+- A. The size of volumes provisioned per month.
+- B. The compute capacity you consume.
+- C. The amount of data you have stored in snapshots.
+- D. The compute time you consume.
+- E. The number of Snowball storage devices you request.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,C
+✅  Correct! (⏱️ 69.52s)
+
+Q24. You have just set up your AWS environment and have created six IAM user accounts for the DevOps team. What is the AWS recommendation when granting permissions to these IAM accounts?
+- A. Attach a separate IAM policy for each individual account.
+- B. Apply the Principle of Least Privilege.
+- C. For security purposes, you should not grant any permission to the DevOps team.
+- D. Create six different IAM passwords.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 86.04s)
+
+Q25. Which of the following has the greatest impact on cost? (Choose TWO)
+- A. Compute charges.
+- B. The number of services used.
+- C. Data Transfer In charges.
+- D. Data Transfer Out charges.
+- E. The number of IAM roles provisioned.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,D
+❌  Wrong. Correct answer: A,D (⏱️ 59.31s)
+
+Q26. Who from the following will get the largest discount?
+- A. A user who chooses to buy On-demand, Convertible, Partial upfront instances.
+- B. A user who chooses to buy Reserved, Convertible, All upfront instances.
+- C. A user who chooses to buy Reserved, Standard, No upfront instances.
+- D. A user who chooses to buy Reserved, Standard, All upfront instances.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 35.44s)
+
+Q27. Which of the following is an available option when purchasing Amazon EC2 instances?
+- A. The ability to bid to get the lowest possible prices.
+- B. The ability to register EC2 instances to get volume discounts on every hour the instances are running.
+- C. The ability to buy Dedicated Instances for up to 90% discount.
+- D. The ability to pay upfront to get lower hourly costs.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 71.90s)
+
+Q28. What does the term “Economies of scale” mean?
+- A. It means that you save more when you consume more.
+- B. It means as more time passes using AWS, you pay more for its services.
+- C. It means that AWS will continuously lower costs as it grows.
+- D. It means that you have the ability to pay as you go.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 49.78s)
+
+Q29. A company experiences fluctuations in traffic patterns to their e-commerce website when running flash sales. What service can help the company dynamically match the required compute capacity to handle spikes in traffic during flash sales?
+- A. AWS Auto Scaling.
+- B. Amazon Elastic Compute Cloud.
+- C. Amazon Elastic File System.
+- D. Amazon ElastiCache.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 17.54s)
+
+Q30. Which of the below options is true of Amazon VPC?
+- A. Amazon VPC allows customers to control user interactions with all other AWS resources.
+- B. AWS Customers have complete control over their Amazon VPC virtual networking environment.
+- C. AWS is responsible for all the management and configuration details of Amazon VPC.
+- D. Amazon VPC helps customers to review their AWS architecture and adopt best practices.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 63.51s)
+
+Q31. Which tool can a non-AWS customer use to compare the cost of on-premises environment resources to AWS?
+- A. AWS Cost Explorer.
+- B. AWS Pricing Calculator.
+- C. AWS Budgets.
+- D. AWS TCO Calculator.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 19.02s)
+
+Q32. Which of the following services provide real-time auditing for compliance and vulnerabilities? (Choose TWO)
+- A. AWS Config.
+- B. Amazon Redshift.
+- C. Amazon MQ.
+- D. AWS Trusted Advisor.
+- E. Amazon Cognito.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+❌  Wrong. Correct answer: A,D (⏱️ 49.48s)
+
+Q33. Which of the following AWS services uses Puppet to automate how EC2 instances are configured?
+- A. AWS OpsWorks.
+- B. AWS CloudFormation.
+- C. AWS Quick Starts.
+- D. AWS CloudTrail.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 20.77s)
+
+Q34. An organization uses a hybrid cloud architecture to run their business. Which AWS service enables them to deploy their applications to any AWS or on-premises server?
+- A. Amazon Kinesis.
+- B. Amazon QuickSight.
+- C. AWS CodeDeploy.
+- D. Amazon Athena.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 54.30s)
+
+Q35. Select the services that are server-based: (Choose TWO)
+- A. Amazon RDS.
+- B. Amazon DynamoDB.
+- C. AWS Lambda.
+- D. AWS Fargate.
+- E. Amazon EMR.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+❌  Wrong. Correct answer: A,E (⏱️ 30.23s)
+
+Q36. What best describes penetration testing?
+- A. Testing your application’s response time from different locations.
+- B. Testing your network to find security vulnerabilities that an attacker could exploit.
+- C. Testing your instances to check for the unhealthy ones.
+- D. Testing your software for bugs and errors.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 32.08s)
+
+Q37. Which of the following are use cases for Amazon EMR? (Choose TWO)
+- A. Enables you to backup extremely large amounts of data at very low costs.
+- B. Enables you to move Exabyte-scale data from on-premises datacenters into AWS.
+- C. Enables you to analyze and process extremely large amounts of data in a timely manner.
+- D. Enables you to easily run and scale Apache Spark, Hadoop,and other Big Data frameworks.
+- E. Enables you to easily run and manage Docker containers.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+✅  Correct! (⏱️ 1.65s)
+
+Q38. Your CTO has asked you to contact AWS support using the chat feature to ask for guidance related to EBS. However, when you open the AWS support center you can't see a way to contact support via Chat. What should you do?
+- A. There is no chat feature in AWS support.
+- B. The chat feature is available for all plans for an additional fee, but you have to request it first.
+- C. At a minimum, upgrade to Business support plan.
+- D. Upgrade from the Basic Support plan to Developer Support.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 149.22s)
+
+Q39. A developer wants to quickly deploy and manage his application in the AWS Cloud, but he doesn’t have any experience with cloud computing. Which of the following AWS services would help the developer achieve his goal?
+- A. AWS Fargate.
+- B. AWS Batch.
+- C. Amazon Personalize.
+- D. AWS Elastic Beanstalk.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 34.12s)
+
+Q40. Which statement best describes the AWS Pay-As-You-Go pricing model?
+- A. With AWS, you replace low upfront expenses with large variable payments.
+- B. With AWS, you replace low upfront expenses with large fixed payments.
+- C. With AWS, you replace large upfront expenses with low fixed payments.
+- D. With AWS, you replace large capital expenses with low variable payments.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 63.59s)
+
+Q41. For Amazon RDS databases, what does AWS perform on your behalf? (Choose TWO)
+- A. Database setup.
+- B. Network traffic protection.
+- C. Management of the operating system.
+- D. Access management.
+- E. Management of firewall rules.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,C
+✅  Correct! (⏱️ 40.65s)
+
+Q42. Which of the following strategies help analyze costs in AWS?
+- A. Using tags to group resources.
+- B. Using AWS CloudFormation to automate the deployment of resources.
+- C. Deploying resources of the same type in different regions.
+- D. Configuring Amazon Inspector to automatically analyze costs and email reports.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 44.54s)
+
+Q43. A media company has an application that requires the transfer of large data sets to and from AWS every day. This data is business critical and should be transferred over a consistent connection. Which AWS service should the company use?
+- A. AWS Direct Connect.
+- B. Amazon Comprehend.
+- C. AWS Snowmobile.
+- D. AWS VPN.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 31.17s)
+
+Q44. What is the main benefit of the AWS Storage Gateway service?
+- A. It automates the process of building, maintaining, and running ETL jobs.
+- B. It provides physical devices to migrate data from on premises to AWS.
+- C. It allows integration of on-premises IT environments with Cloud Storage.
+- D. It provides hardware-based key storage for regulatory compliance.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 84.37s)
+
+Q45. To protect against data loss, you need to backup your database regularly. What is the most cost-effective storage option that provides immediate retrieval of your backups?
+- A. Amazon S3 Glacier Deep Archive.
+- B. Amazon S3 Standard-Infrequent Access.
+- C. Amazon S3 Glacier.
+- D. Instance Store.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 59.33s)
+
+Q46. Which service can you use to route traffic to the endpoint that provides the best application performance for your users worldwide?
+- A. AWS Global Accelerator.
+- B. AWS Data Pipeline.
+- C. AWS DAX Accelerator.
+- D. AWS Transfer Acceleration.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 57.16s)
+
+Q47. Why are Serverless Architectures more economical than Server-based Architectures?
+- A. Serverless Architectures use new powerful computing devices.
+- B. With the Server-based Architectures, compute resources continue to run all the time but with serverless architecture, compute resources are only used when code is being executed.
+- C. When you reserve serverless capacity, you will get large discounts compared to server reservation.
+- D. With Serverless Architectures you have the ability to scale automatically up or down as demand changes.
+Your answer (e.g. A,B,...): D
+❌  Wrong. Correct answer: B (⏱️ 68.35s)
+
+Q48. Which of the below options are use cases of the Amazon Route 53 service? (Choose TWO)
+- A. Point-to-point connectivity between an on-premises data center and AWS.
+- B. Detects configuration changes in the AWS environment.
+- C. DNS configuration and management.
+- D. Manages global application traffic through a variety of routing types.
+- E. Provides infrastructure security optimization recommendations.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+✅  Correct! (⏱️ 2.75s)
+
+Q49. You want to transfer 200 Terabytes of data from on-premises locations to the AWS Cloud, which of the following can do the job in a cost-effective way?
+- A. AWS Snowmobile.
+- B. AWS Import/Export.
+- C. AWS DMS.
+- D. AWS Snowball.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 23.33s)
+
+Q50. You have a real-time IoT application that requires sub-millisecond latency. Which of the following services should you use?
+- A. Amazon Redshift.
+- B. Amazon Athena.
+- C. AWS Cloud9.
+- D. Amazon ElastiCache for Redis.
+Your answer (e.g. A,B,...): C
+❌  Wrong. Correct answer: D (⏱️ 52.20s)
+
+
+============================================================
+📊  EXAM SUMMARY 📊
+============================================================
+Total Questions: 50
+Correct: 39 ✅
+Wrong: 11 ❌
+Score: 78.00% 🌟
+Total Time: 2552.74 seconds ⏱️
+
+
+Welcome to the Python Exam Simulator 🎓
+Enter the exam serial number (e.g. 1): 7
+
+📘 Starting Practice Exam 7 (50 questions)
+--------------------------------------------------
+
+Q1. Which of the following can help secure your sensitive data in Amazon S3? (Choose TWO)
+- A. Delete the encryption keys once your data is encrypted.
+- B. With AWS you do not need to worry about encryption.
+- C. Enable S3 Encryption.
+- D. Encrypt the data prior to uploading it.
+- E. Delete all IAM users that have access to S3.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,E
+❌  Wrong. Correct answer: C,D (⏱️ 50.10s)
+
+Q2. Which AWS service helps developers compile and test their code?
+- A. AWS CodeDeploy.
+- B. AWS CodeCommit.
+- C. CloudEndure.
+- D. AWS CodeBuild.
+Your answer (e.g. A,B,...): C
+❌  Wrong. Correct answer: D (⏱️ 42.09s)
+
+Q3. Which of the following will affect how much you are charged for storing objects in S3? (Choose TWO)
+- A. Using default encryption for any number of S3 buckets.
+- B. The number of EBS volumes attached to your instances.
+- C. The storage class used for the objects stored.
+- D. Creating and deleting S3 buckets.
+- E. The total size in gigabytes of all objects stored.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,E
+✅  Correct! (⏱️ 65.42s)
+
+Q4. What does the Amazon CloudFront service provide? (Choose TWO)
+- A. Tracks user activity and APl usage.
+- B. Increases application availability by caching at the edge.
+- C. Enables faster disaster recovery.
+- D. Stores archived data at very low costs.
+- E. Delivers content to end users with low latency.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,E
+✅  Correct! (⏱️ 23.10s)
+
+Q5. You are facing a lot of problems with your current contact center. Which service provides a cloud-based contact center that can deliver a better service for your customers?
+- A. Amazon Lightsail.
+- B. Amazon Connect.
+- C. AWS Direct Connect.
+- D. AWS Elastic Beanstalk.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 30.47s)
+
+Q6. You have migrated your application to AWS recently. How can you view the AWS costs applied to your account?
+- A. Using the AWS Cost & Usage Report.
+- B. Using the AWS Total Cost of Ownership (TCO) dashboard.
+- C. Using the AWS CloudWatch logs dashboard.
+- D. Using the Amazon VPC dashboard.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 19.08s)
+
+Q7. Which of the following are valid Amazon EC2 Reserved Instance types? (Choose TWO)
+- A. Convertible.
+- B. Expedited.
+- C. Bulk.
+- D. Spot.
+- E. Standard.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,E
+✅  Correct! (⏱️ 22.18s)
+
+Q8. Which of the following services gives you access to all AWS auditor-issued reports and certifications?
+- A. AWS Artifact.
+- B. AWS Config.
+- C. Amazon CloudWatch.
+- D. AWS CloudTrail.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 23.51s)
+
+Q9. You manage a blog on AWS that has different environments: development, testing, and production. What can you use to create a custom console for each environment to view and manage your resources easily?
+- A. AWS Resource Groups.
+- B. AWS Placement Groups.
+- C. AWS Management Console.
+- D. AWS Tag Editor.
+Your answer (e.g. A,B,...): D
+❌  Wrong. Correct answer: A (⏱️ 3.41s)
+
+Q10. Which AWS service collects metrics from running EC2 instances?
+- A. Amazon Inspector.
+- B. Amazon CloudWatch.
+- C. AWS CloudFormation.
+- D. AWS CloudTrail.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 26.96s)
+
+Q11. Your web application currently faces performance issues and suffers from long load times. Which of the following AWS services could help fix these issues and improve performance?
+- A. Amazon Detective.
+- B. AWS X-Ray.
+- C. AWS Security Hub.
+- D. AWS Shield.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 16.34s)
+
+Q12. Which of the following compute resources are serverless? (Choose TWO)
+- A. Amazon EC2.
+- B. AWS Fargate.
+- C. AWS Lambda.
+- D. Amazon ECS.
+- E. Amazon EMR.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,C
+✅  Correct! (⏱️ 12.55s)
+
+Q13. For compliance and regulatory purposes, a government agency requires that their applications must run on hardware that is dedicated to them only. How can you meet this requirement?
+- A. Use EC2 Dedicated Hosts.
+- B. Use EC2 Reserved Instances.
+- C. Use EC2 Spot Instances.
+- D. Use EC2 On-demand Instances.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 29.57s)
+
+Q14. Which AWS Cost Governance best practice recommends refining workloads regularly to make the most of existing AWS resources and reduce costs?
+- A. Tagging Enforcement.
+- B. Architecture Optimization.
+- C. Budgeting Processes.
+- D. Resource Controls.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 83.74s)
+
+Q15. An organization needs to build a financial application that requires support for ACID transactions. Which AWS database service is most appropriate in this case?
+- A. RedShift.
+- B. RDS.
+- C. CloudHSM.
+- D. DMS.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 47.55s)
+
+Q16. What can you use to assign permissions directly to an IAM user?
+- A. IAM Identity.
+- B. IAM Group.
+- C. IAM Role.
+- D. IAM Policy.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 15.52s)
+
+Q17. The owner of an E-Commerce application notices that the compute capacity requirements vary heavily from time to time. What makes AWS more economical than traditional data centers for this type of application?
+- A. AWS allows customers to launch powerful EC2 instances to handle spikes in load.
+- B. AWS allows customers to pay upfront to get bigger discounts.
+- C. AWS allows customers to launch and terminate EC2 instances based on demand.
+- D. AWS allows customers to choose cheaper types of EC2 instances that best fit their needs.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 65.26s)
+
+Q18. Amazon RDS supports multiple database engines to choose from. Which of the following is not one of them?
+- A. PostgreSQL.
+- B. Oracle.
+- C. Microsoft SQL Server.
+- D. Teradata.
+Your answer (e.g. A,B,...): A
+❌  Wrong. Correct answer: D (⏱️ 30.94s)
+
+Q19. Which of the following AWS services would help you migrate on-premise databases to AWS?
+- A. AWS DMS.
+- B. Amazon S3 Transfer Acceleration.
+- C. AWS Directory Service.
+- D. AWS Transit Gateway.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 28.65s)
+
+Q20. For new AWS customers, what is the EASIEST way to launch a simple WordPress website on AWS?
+- A. Run WordPress on an Amazon Lightsail instance.
+- B. Install WordPress on an Amazon EC2 instance.
+- C. Use the Amazon S3 Web hosting feature.
+- D. Host the website directly on AWS Cloud Development Kit (AWS CDK).
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 143.97s)
+
+Q21. Which of the following would you use to manage your encryption keys in the AWS Cloud? (Choose TWO)
+- A. AWS KMS.
+- B. AWS Certificate Manager.
+- C. AWS CodeDeploy.
+- D. AWS CodeCommit.
+- E. CloudHSM.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,B
+❌  Wrong. Correct answer: A,E (⏱️ 27.60s)
+
+Q22. Which of the following services allows you to install and run custom relational database software?
+- A. Amazon EC2.
+- B. Amazon Cognito.
+- C. Amazon RDS.
+- D. Amazon Inspector.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 23.95s)
+
+Q23. Your application requirements for CPU and RAM are changing in an unpredictable way. Which service can be used to dynamically adjust these resources based on load?
+- A. Auto Scaling.
+- B. ELB.
+- C. Amazon Route53.
+- D. Amazon Elastic Container Service.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 21.59s)
+
+Q24. A company has infrastructure hosted in an on-premises data center. They currently have an operations team that takes care of identity management. If they decide to migrate to the AWS cloud, which of the following services would help them perform the same role in AWS?
+- A. AWS IAM.
+- B. AWS Outposts.
+- C. AWS Federation.
+- D. Amazon Redshift.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 31.68s)
+
+Q25. What are some key design principles for designing public cloud systems? (Choose TWO)
+- A. Reserved capacity instead of on demand.
+- B. Loose coupling over tight coupling.
+- C. Servers instead of managed services.
+- D. Disposable resources instead of fixed servers.
+- E. Multi-AZ deployments instead of multi-region deployments.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,E
+❌  Wrong. Correct answer: B,D (⏱️ 60.15s)
+
+Q26. Where can AWS account owners get a list of all users in their account, including the status of their AWS credentials?
+- A. AWS CloudTrail Trails.
+- B. IAM Credential Report.
+- C. AWS Artifact reports.
+- D. AWS Cost and Usage Report.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 28.99s)
+
+Q27. Which of the following services enables you to easily generate and use your own encryption keys in the AWS Cloud?
+- A. AWS Shield.
+- B. AWS Certificate Manager.
+- C. AWS CloudHSM.
+- D. AWS WAF.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 35.88s)
+
+Q28. You have developed a web application targeting a global audience. Which of the following will help you achieve the highest redundancy and fault tolerance from an infrastructure perspective?
+- A. There is no need to architect for these capabilities in AWS, as AWS is redundant by default.
+- B. Deploy the application in a single Availability Zone.
+- C. Deploy the application in multiple Availability Zones in a single AWS region.
+- D. Deploy the application in multiple Availability Zones in multiple AWS regions.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 41.40s)
+
+Q29. For some services, AWS automatically replicates data across multiple Availability Zones to provide fault tolerance in the event of a server failure or Availability Zone outage. Select TWO services that automatically replicate data across Availability Zones.
+- A. Instance Store.
+- B. S3.
+- C. DynamoDB.
+- D. Amazon Route 53.
+- E. AWS VPN.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,C
+✅  Correct! (⏱️ 26.60s)
+
+Q30. Which of the following factors affect Amazon CloudFront cost? (Choose TWO)
+- A. Number of Requests.
+- B. Traffic Distribution.
+- C. Number of Volumes.
+- D. Instance type.
+- E. Storage Class.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,B
+✅  Correct! (⏱️ 75.60s)
+
+Q31. Which of the following resources can an AWS customer use to learn more about prohibited uses of the services offered by AWS?
+- A. AWS Service Control Policies (SCPs).
+- B. AWS Artifact.
+- C. AWS Budgets.
+- D. AWS Acceptable Use Policy.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 105.08s)
+
+Q32. Which of the following security resources are available to any user for free? (Choose TWO)
+- A. AWS Bulletins.
+- B. AWS TAM.
+- C. AWS Support APl.
+- D. AWS Security Blog.
+- E. AWS Classroom Training.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,D
+✅  Correct! (⏱️ 81.58s)
+
+Q33. How can you protect data stored on Amazon S3 from accidental deletion?
+- A. By enabling S3 Versioning.
+- B. By configuring S3 Bucket Policies.
+- C. By configuring S3 Lifecycle Policies.
+- D. By disabling S3 Cross-Region Replication (CRR).
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 24.50s)
+
+Q34. Which of the following is the responsibility of AWS according to the AWS Shared Responsibility Model?
+- A. Securing regions and edge locations.
+- B. Performing auditing tasks.
+- C. Monitoring AWS resources usage.
+- D. Securing access to AWS resources.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 25.45s)
+
+Q35. Which of the following AWS support plans provides access to only the seven core AWS Trusted Advisor checks?
+- A. Business & Enterprise Support.
+- B. Basic & Developer Support.
+- C. Developer & Enterprise Support.
+- D. Developer & Business Support.
+Your answer (e.g. A,B,...): A
+❌  Wrong. Correct answer: B (⏱️ 31.30s)
+
+Q36. Which of the following is NOT a benefit of using AWS Lambda?
+- A. AWS Lambda runs code without provisioning or managing servers.
+- B. AWS Lambda provides resizable compute capacity in the cloud.
+- C. There is no charge when your AWS Lambda code is not running.
+- D. AWS Lambda can be called directly from any mobile app.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 59.89s)
+
+Q37. How does AWS help customers achieve compliance in the cloud?
+- A. It's not possible to meet regulatory compliance requirements in the Cloud.
+- B. AWS applies the most common Cloud security standards, and is responsible for complying with customers’ applicable laws and regulations.
+- C. AWS has many common assurance certifications such as ISO 9001 and HIPAA.
+- D. Many AWS services are assessed regularly to comply with local laws and regulations.
+Your answer (e.g. A,B,...): B
+❌  Wrong. Correct answer: C (⏱️ 89.48s)
+
+Q38. Who is responsible for scaling a DynamoDB database in the AWS Shared Responsibility Model?
+- A. Your security team.
+- B. Your development team.
+- C. AWS.
+- D. Your internal DevOps team.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 15.42s)
+
+Q39. You are working as a web app developer. You are currently facing issues in media playback for mobile devices because your media format is not supported. Which of the following AWS services can help you convert your media into another format?
+- A. Amazon Elastic Transcoder.
+- B. Amazon Pinpoint.
+- C. AmazonS3.
+- D. Amazon Rekognition.
+Your answer (e.g. A,B,...): A
+✅  Correct! (⏱️ 47.86s)
+
+Q40. What are the benefits of the AWS Organizations service? (Choose TWO)
+- A. Control access to AWS services.
+- B. Help organizations design and maintain an accelerated path to successful cloud adoption.
+- C. Manage your organization’s payment methods.
+- D. Help organization achieve their desired business outcomes with AWS.
+- E. Consolidate billing across multiple AWS accounts.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,E
+❌  Wrong. Correct answer: A,E (⏱️ 52.52s)
+
+Q41. Which AWS service allows you to build a data warehouse in the cloud?
+- A. AWS Shield.
+- B. Amazon Redshift.
+- C. Amazon RDS.
+- D. Amazon Comprehend.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 10.25s)
+
+Q42. What AWS service allows you to buy third-party software solutions and services that run on AWS resources?
+- A. AWS Application Discovery service.
+- B. Amazon DevPay.
+- C. AWS Marketplace.
+- D. Resource Groups.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 39.89s)
+
+Q43. Which of the following services is an AWS repository management system that allows for storing, versioning, and managing your application code?
+- A. AWS CodePipeline.
+- B. AWS CodeCommit.
+- C. AWS X-Ray.
+- D. Amazon Inspector.
+Your answer (e.g. A,B,...): B
+✅  Correct! (⏱️ 72.62s)
+
+Q44. Which AWS service can be used to route end users to the nearest AWS Region to reduce latency?
+- A. Amazon Cognito.
+- B. AWS Systems Manager.
+- C. AWS Cloud9.
+- D. Amazon Route 53.
+Your answer (e.g. A,B,...): D
+✅  Correct! (⏱️ 27.07s)
+
+Q45. Which feature enables users to sign into their AWS accounts with their existing corporate credentials?
+- A. Federation.
+- B. Access keys.
+- C. IAM Permissions.
+- D. WAF rules.
+Your answer (e.g. A,B,...): C
+❌  Wrong. Correct answer: A (⏱️ 42.52s)
+
+Q46. According to the AWS shared responsibility model, what are the controls that customers fully inherit from AWS? (Choose TWO)
+- A. Awareness and Training.
+- B. Communications controls.
+- C. Data center security controls.
+- D. Environmental controls.
+- E. Resource Configuration Management.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): C,D
+✅  Correct! (⏱️ 37.64s)
+
+Q47. What can you access by visiting the URL: <http://status.aws.amazon.com>?
+- A. AWS Billing Dashboard.
+- B. AWS Cost Dashboard.
+- C. AWS Service Health Dashboard.
+- D. AWS Security Dashboard.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 13.26s)
+
+Q48. Which of the following procedures can reduce latency when your end users are retrieving data? (Choose TWO)
+- A. Store media assets in the region closest to your end users.
+- B. Store media assets on an additional EBS volume and increase the capacity of your server.
+- C. Replicate media assets to at least two availability zones.
+- D. Reduce the size of media assets using the Amazon Elastic Transcoder.
+- E. Store media assets in S3 and use CloudFront to distribute these assets.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): A,E
+✅  Correct! (⏱️ 61.92s)
+
+Q49. Which of the following are part of the seven design principles for security in the cloud? (Choose TWO)
+- A. Use manual monitoring techniques to protect your AWS resources.
+- B. Use IAM roles to grant temporary access instead of long-term credentials.
+- C. Scale horizontally to protect from failures.
+- D. Enable real-time traceability.
+- E. Never store sensitive data in the cloud.
+ℹ️  This question may have multiple correct answers — separate them with commas.
+
+Your answer (e.g. A,B,...): B,D
+✅  Correct! (⏱️ 51.32s)
+
+Q50. A company is migrating production workloads to AWS, and they are concerned about cost management across different departments. Which option should the company implement to categorize and track AWS spending?
+- A. Use the AWS Pricing Calculator service to monitor the costs incurred by each department.
+- B. Use Amazon Aurora to forecast AWS spending based on usage.
+- C. Apply cost allocation tags to segment AWS costs by different e projects and departments.
+- D. Configure AWS Price List API to receive billing updates for each department automatically.
+Your answer (e.g. A,B,...): C
+✅  Correct! (⏱️ 42.22s)
+
+
+============================================================
+📊  EXAM SUMMARY 📊
+============================================================
+Total Questions: 50
+Correct: 40 ✅
+Wrong: 10 ❌
+Score: 80.00% 🌟
+Total Time: 2232.43 seconds ⏱️
+

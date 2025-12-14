@@ -36,3 +36,21 @@ Correct: 38 ✅
 Wrong: 12 ❌
 Score: 76.00% 🌟
 Total Time: 44m 25.13s ⏱️
+
+
+_______________ EXAM 06 RESULTS _______________
+Date: 2025-12-14 17:57:22
+Total Questions: 50
+Correct: 39 ✅
+Wrong: 11 ❌
+Score: 78.00% 🌟
+Total Time: 42m 32.74s ⏱️
+
+
+_______________ EXAM 07 RESULTS _______________
+Date: 2025-12-14 19:45:28
+Total Questions: 50
+Correct: 40 ✅
+Wrong: 10 ❌
+Score: 80.00% 🌟
+Total Time: 37m 12.43s ⏱️
