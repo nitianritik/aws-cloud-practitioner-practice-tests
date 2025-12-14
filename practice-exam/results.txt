@@ -28,3 +28,11 @@ Correct: 41
 Wrong: 9
 Score: 82.00%
 Total Time: 2322.70s
+
+_______________ EXAM 05 RESULTS _______________
+Date: 2025-12-14 13:33:35
+Total Questions: 50
+Correct: 38 ✅
+Wrong: 12 ❌
+Score: 76.00% 🌟
+Total Time: 44m 25.13s ⏱️

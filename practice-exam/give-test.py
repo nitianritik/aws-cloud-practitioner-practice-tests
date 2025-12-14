@@ -139,7 +139,7 @@ def run_exam(serial):
         f.write(f"Correct: {total_correct} ✅\n")
         f.write(f"Wrong: {total_wrong} ❌\n")
         f.write(f"Score: {score_percent:.2f}% 🌟\n")
-        f.write(f"Total Time: {int(total_time//60)}m {total_time%60:.2f}s ⏱️\n")
+        f.write(f"Total Time: {int(total_time//60)}m {total_time%60:.2f}s ⏱️")
         # f.write("-" * 60 + "\n")
         # for r in question_results:
         #     f.write(f"Q{r['number']:<3} | {r['result']} | {r['time_taken']:.2f}s | Your: {r['your_answer']} | Correct: {r['correct_answer']}\n")
