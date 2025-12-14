@@ -1,7 +1,4 @@
 _______________ EXAM 01 RESULTS _______________
-
-📊  EXAM SUMMARY 📊
-============================================================
 Total Questions: 50
 Correct: 37 ✅
 Wrong: 13 ❌
@@ -24,3 +21,10 @@ Wrong: 11
 Score: 78.00%
 Total Time: 4279.30s
 
+_______________ EXAM 04 RESULTS _______________
+Date: 2025-12-13 20:56:06
+Total Questions: 50
+Correct: 41
+Wrong: 9
+Score: 82.00%
+Total Time: 2322.70s
